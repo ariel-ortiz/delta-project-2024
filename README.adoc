@@ -1,0 +1,7 @@
+= Delta Project 2024
+
+Don't forget to install the required packages:
+
+----
+pip install wasmtime Arpeggio
+----
